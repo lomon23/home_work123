@@ -14,7 +14,7 @@ def update_count_label():
 
 x = 'пайтон клас'
 number_of_times_entered = 0
-font=10
+font=15
 
 root = tk.Tk()
 root.geometry('400x200')
