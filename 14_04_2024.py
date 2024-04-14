@@ -39,5 +39,6 @@ student2 = Student("Остап", "Крочак", [12, 12, 12, 12],'10-a')
 
 teacher1.tell()
 teacher2.tell()
+teacher3.tell()
 student1.tell()
 student2.tell()
